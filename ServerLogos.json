@@ -1,0 +1,10 @@
+{
+	"Images": [
+    	{
+        	"URL": "https://i.imgur.com/QJHXYHH.png",
+        	"Pos": "BottomLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	}
+	]
+}
